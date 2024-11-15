@@ -16,7 +16,7 @@ int main()
 
 	// Add 3 to the number entered
 	int finalResult = numEntered + 3;
-	std::cout << "The number entered plus three equals: " << finalResult << "\n";
+	std::cout << "The number entered plus three equals: " << finalResult << "\n";//test
 
 	return 0;
 }
